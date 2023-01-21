@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+}
+.container{
+    border: 5px soliyellow;
+    padding: 20px;
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+}
+.left{
+    border: 1px solid gen;
+    margin: auto;
+    
+}
+.right{
+    border: 2px soid red;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 20px;
+}
+.in-right{
+    margin: 10px;
+    width: 300px;
+    height: 261px;
+}
+.bottom{
+    margin: auto;
+}
